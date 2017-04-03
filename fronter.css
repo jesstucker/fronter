@@ -1,0 +1,29 @@
+div#abox{
+	display:inline-block;
+	width:30%;
+	border-top: .15em black;
+	border-bottom: .2em black;
+	border-left: .3em black;
+	border-right: .3em black;
+	border-style: solid;
+	/*margin:auto;*/
+	padding: 2% 0% 6% 0%;
+	font-family: Snell Roundhand,cursive;
+}
+div#dick{
+	margin:auto;
+	font-size: 600%;
+	transform: rotate(-22.5deg);
+
+
+}
+
+div.diagonal{
+	padding-left: 15%;
+}
+div#fuck {
+	padding-left: 2%;
+	/*transform:  rotateY(180deg);*/
+	/*padding-left: 25%;*/
+
+}
